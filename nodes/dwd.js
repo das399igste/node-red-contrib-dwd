@@ -60,7 +60,8 @@ const dwd = {
         4: 'rot',
         5: 'dunkelrot',
         10: 'violet_hitze',
-        20: 'violet_uv'
+        20: 'violet_uv',
+        50: 'violet_hitze'
     }
 };
 
